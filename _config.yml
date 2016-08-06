@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Nicolas Cavallo"
-title: "{ Nicolas Cavallo }"
+title: "Nicolas Cavallo"
 description: "Blog and website of Nicolas Cavallo, blogging mainly for tech."
 keywords: "nicolas, cavallo, scala, java, aws, microservices"
 favicon: "/img/favicon.ico"
@@ -47,10 +47,10 @@ background-img: "../img/tate_saint_paul-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: False
+dynamic-typing: True
 shuffle: True # Shuffle the lines.
-loop: False
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
+loop: True
+loop-count: 1 # Set False for infinite loop, or set any number for finite loop.
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
@@ -58,6 +58,8 @@ lines: # You can add HTML Tags in the Text
   - text: "With the over-population and inflation and starvation and the crazy politicians, I don't feel safe in this world no more. - The Kinks"
   - text: "And in the end, the love you take is equal to the love you made. - The Beatles"
   - text: "Does the body rule the mind or does the mind rule the body? I dunno... - The Smiths"
+  - text: "Even the genius asks questions. - 2 Pac"
+  - text: "The more I see, the less I know for sure. - John Lennon"
 
 me-img: "/img/jetpacktocat.png"
 
