@@ -112,7 +112,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/uk_flag_gerkin.jpg"
     date: "June 2015 - Present"
     description: "Moved to London, United Kingdom"
   - image: "/img/timeline/baracktocat.jpg"
