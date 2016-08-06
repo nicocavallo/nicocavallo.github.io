@@ -16,7 +16,7 @@ url: "https://nicocavallo.github.io"
 
 # Google tracking id
 
-google-tracking-id: ""
+google-tracking-id: "UA-8161948-9"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -103,7 +103,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "nicocavallo-github-io"
 
 syntax-highlight: True
 
@@ -146,8 +146,8 @@ email: "nicolas.cavallo@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+#author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+#author_blurb_image: "/img/author.png"
 
 ##################
 # Social Buttons #
